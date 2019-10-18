@@ -1,0 +1,191 @@
+nav {
+    background-color: #C12127;
+    color: rgba(255,255,255,0.8);
+    padding: 10px 5px 30px;
+    margin: 0 0;
+}
+
+nav div{
+    float: left;
+}
+
+nav a {
+    text-decoration: none;
+    color: rgba(255,255,255,0.8);
+}
+
+.top-links {
+    float: right;
+    padding: 0;
+    margin: 0 20px 0 0;
+}
+
+.top-links li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.heart {
+    padding:0 10px 0 20px;
+}
+
+header {
+    background-image: url("images/city-scape.svg");
+    margin: 0 0;
+    height: 360px;
+    background-color: rgb(32, 101, 136);
+    padding: 10px 0 0 0;
+}
+
+.npm-logo {
+    float: left;
+    height: 40px;
+    margin: 0px 10px 10px 15px;
+}
+
+.search-bar {
+    float: left;
+    margin: 0px 2px 10px 10px;
+    padding: 10px 20px;
+    width: 60%;
+    background-color: rgb(31, 82, 111);
+    border-color: rgb(31, 82, 111);
+    box-shadow: none;
+    border: 0px solid;
+}
+
+.search-button {
+    float: left;
+    margin: 0px 0px 10px 0px;
+    padding: 9px 10px 6px 13px;
+    background-color:rgb(31, 82, 111);
+    border-color: rgb(31, 82, 111);
+    border: 0px solid;
+}
+
+header ul {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    height:40px;
+    color: rgba(255,255,255,0.8);
+}
+
+header a {
+    text-decoration: none;
+    color:rgba(255,255,255,0.8);
+}
+
+.bear-logo {
+    height: 30px;
+    display: block;
+    margin-left: 10px;
+    margin-top: auto;
+}
+
+.block2 {
+    color:rgba(255,255,255,0.8);
+    width: 60%;
+    margin: 40px auto;
+}
+
+.block2 p {
+    text-align: left;
+    width: 55%;
+}
+
+.block2 button {
+    color: white;
+    background-color:rgb(240, 146, 51);
+    border-color: rgb(240, 146, 51);
+    border-radius: 20px;
+    padding: 8px 14px;
+}
+
+.sec {
+    background-color: rgb(39, 53, 71);
+    padding: 60px 0 100px 0;
+    color: white;
+}
+
+.sec img{
+    height: 250px;
+    float: left;
+    margin-left: 200px;
+}
+
+.sec div {
+    margin-left: 700px;
+}
+
+.sign-up-button {
+    color: white;
+    background-color:#C12127;
+    border-color: #C12127;
+    border-radius: 20px;
+    padding: 8px 14px;
+}
+
+.sec div a{
+    text-decoration: none;
+    color:white;
+}
+
+.sec div h2 {
+    width: 40%;
+}
+
+.sec li {
+    padding: 0 0 15px 0;
+}
+
+.sec2 {
+    background-image: url("images/forklift.svg");
+    background-size: cover;
+    height: 470px;
+    color: white;
+    padding: 20px;
+}
+
+.sec2 div {
+    margin: 120px 0 0 90px;
+}
+
+.sec2 div button {
+    color: white;
+    background-color: rgb(25, 33, 41);
+    border-color: rgb(25, 33, 41);
+    border-radius: 20px;
+    padding: 12px 40px;
+    font-size: 1.1em;
+}
+
+.sec2 div p {
+    width: 24%;
+}
+
+.sec3 {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 60px;
+}
+
+.element {
+    display: inline-block;
+    width: 30%;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.element p {
+    width: 65%;
+    text-align: center;
+    margin-left: 65px;
+}
+
+.a{
+    text-decoration: none;
+    color: red;
+}
+
